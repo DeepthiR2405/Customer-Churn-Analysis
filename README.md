@@ -11,39 +11,39 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
 🛠️ Tech Stack
 
-Database & Querying: MySQL (Workbench)
+* Database & Querying: MySQL (Workbench)
 
-Data Analysis & ML: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+* Data Analysis & ML: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
-Visualization & BI: Power BI
+* Visualization & BI: Power BI
 
-Notebook: Jupyter Notebook
+* Notebook: Jupyter Notebook
 
 📂 Project Components
 
-SQL Querying (SQL Query.sql)
+1. SQL Querying (SQL Query.sql)
 
-Created database saas_churn and tables (sales_data, customer_summary).
+   * Created database saas_churn and tables (sales_data, customer_summary).
 
-Designed RFM metrics (Recency, Frequency, Monetary) and customer-level aggregations.
+   * Designed RFM metrics (Recency, Frequency, Monetary) and customer-level aggregations.
 
-Added churn flag:
+   * Added churn flag:
 
-1 → Customer inactive for >180 days.
+     1 → Customer inactive for >180 days.
 
-0 → Active customer.
+     0 → Active customer.
 
-Python Analysis & Prediction (Customer_Churn_Prediction.ipynb)
+2. Python Analysis & Prediction (Customer_Churn_Prediction.ipynb)
 
-Imported customer summary dataset.
+   * Imported customer summary dataset.
 
-Performed data cleaning & feature engineering.
+   * Performed data cleaning & feature engineering.
 
-Encoded categorical variables and built a churn prediction model using machine learning (Logistic Regression, Random Forest, etc.).
+   * Encoded categorical variables and built a churn prediction model using machine learning (Logistic Regression, Random Forest, etc.).
 
-Evaluated model performance with accuracy, precision, recall, and F1-score.
+   * Evaluated model performance with accuracy, precision, recall, and F1-score.
 
-Generated visual insights on churn drivers.
+   * Generated visual insights on churn drivers.
 
 Power BI Dashboard (Customer Churn Analysis.pbix)
 

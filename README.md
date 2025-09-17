@@ -1,9 +1,9 @@
-# Customer-Churn-Prediction and Analysis
+# Customer Churn Prediction and Analysis
 End-to-end customer churn prediction project using MySQL, Python, and Power BI. Includes RFM analysis, churn flag creation, machine learning modeling, and interactive dashboards to identify at-risk customers, improve retention strategies, and support data-driven decisions.
 
-📊 Customer Churn Prediction & Analysis
+# 📊 Customer Churn Prediction & Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on analyzing and predicting customer churn for a SaaS-based business using SQL, Python, and Power BI. It integrates data preprocessing, feature engineering, machine learning modeling, and dashboard visualization to identify churn patterns and support data-driven decision-making.
 

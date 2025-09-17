@@ -1,7 +1,6 @@
-# Customer Churn Prediction and Analysis
+# 📊Customer Churn Prediction and Analysis
 End-to-end customer churn prediction project using MySQL, Python, and Power BI. Includes RFM analysis, churn flag creation, machine learning modeling, and interactive dashboards to identify at-risk customers, improve retention strategies, and support data-driven decisions.
 
-##📊 Customer Churn Prediction & Analysis##
 
 # 📌 Project Overview
 
@@ -9,7 +8,7 @@ This project focuses on analyzing and predicting customer churn for a SaaS-based
 
 By combining SQL-based data modeling, Python predictive analytics, and Power BI dashboards, this end-to-end project demonstrates real-world data analytics and business intelligence workflows.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 * Database & Querying: MySQL (Workbench)
 
@@ -19,7 +18,7 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
 * Notebook: Jupyter Notebook
 
-📂 Project Components
+# 📂 Project Components
 
 1. SQL Querying (SQL Query.sql)
 
@@ -57,7 +56,7 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
    * Provided a business-focused view for decision-makers.
 
-🚀 Key Features
+# 🚀 Key Features
 
 * 📌 End-to-end ETL → ML → BI pipeline.
 
@@ -69,13 +68,15 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
 * 📈 Interactive Power BI dashboard for real-time tracking.
 
-📊 Sample Dashboard
+# 📊 Sample Dashboard
 
 <img width="1206" height="677" alt="Screenshot 2025-09-12 175807" src="https://github.com/user-attachments/assets/f5dd2bad-6f72-4ec7-bcdd-5fb8aa16090b" />
 <img width="1203" height="672" alt="Screenshot 2025-09-12 175817" src="https://github.com/user-attachments/assets/93d861e3-3973-4489-8931-01fdfee1c4a1" />
 
 
-📑 How to Run
+
+
+# 📑 How to Run
 
 1. SQL Setup
 
@@ -95,7 +96,7 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
    * Refresh data connection to link with your MySQL database or exported CSV.
 
-🎯 Business Impact
+# 🎯 Business Impact
 
 * Helps reduce churn by identifying at-risk customers.
 
@@ -103,7 +104,7 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
 * Improves customer lifetime value (CLV) and retention rate.
 
-📝 Author
+# 📝 Author
 
 👩‍💻 Developed by Deepthi R
 

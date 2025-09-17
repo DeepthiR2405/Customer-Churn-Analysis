@@ -45,29 +45,29 @@ By combining SQL-based data modeling, Python predictive analytics, and Power BI 
 
    * Generated visual insights on churn drivers.
 
-Power BI Dashboard (Customer Churn Analysis.pbix)
+3. Power BI Dashboard (Customer Churn Analysis.pbix)
 
-Interactive dashboard highlighting:
+   * Interactive dashboard highlighting:
 
-Customer churn rates by industry, segment, country, and region.
+     * Customer churn rates by industry, segment, country, and region.
 
-RFM distribution across customers.
+     * RFM distribution across customers.
 
-Churn vs Non-Churn comparison on revenue, frequency, and product usage.
+     * Churn vs Non-Churn comparison on revenue, frequency, and product usage.
 
-Provided a business-focused view for decision-makers.
+   * Provided a business-focused view for decision-makers.
 
 🚀 Key Features
 
-📌 End-to-end ETL → ML → BI pipeline.
+* 📌 End-to-end ETL → ML → BI pipeline.
 
-📊 RFM Analysis to segment customers.
+* 📊 RFM Analysis to segment customers.
 
-🤖 Machine Learning model to predict churn probability.
+* 🤖 Machine Learning model to predict churn probability.
 
-📉 Business insights into high-risk customers and revenue impact of churn.
+* 📉 Business insights into high-risk customers and revenue impact of churn.
 
-📈 Interactive Power BI dashboard for real-time tracking.
+* 📈 Interactive Power BI dashboard for real-time tracking.
 
 📊 Sample Dashboard
 
@@ -77,36 +77,36 @@ Provided a business-focused view for decision-makers.
 
 📑 How to Run
 
-SQL Setup
+1. SQL Setup
 
-Run SQL Query.sql in MySQL Workbench.
+   * Run SQL Query.sql in MySQL Workbench.
 
-Import your sales dataset into the sales_data table.
+   * Import your sales dataset into the sales_data table.
 
-Python Analysis
+2. Python Analysis
 
-Open Customer_Churn_Prediction.ipynb in Jupyter Notebook.
+   * Open Customer_Churn_Prediction.ipynb in Jupyter Notebook.
 
-Run the notebook to preprocess data, train models, and generate insights.
+   * Run the notebook to preprocess data, train models, and generate insights.
 
-Power BI Dashboard
+3. Power BI Dashboard
 
-Open Customer Churn Analysis.pbix in Power BI Desktop.
+   * Open Customer Churn Analysis.pbix in Power BI Desktop.
 
-Refresh data connection to link with your MySQL database or exported CSV.
+   * Refresh data connection to link with your MySQL database or exported CSV.
 
 🎯 Business Impact
 
-Helps reduce churn by identifying at-risk customers.
+* Helps reduce churn by identifying at-risk customers.
 
-Supports marketing strategies through customer segmentation.
+* Supports marketing strategies through customer segmentation.
 
-Improves customer lifetime value (CLV) and retention rate.
+* Improves customer lifetime value (CLV) and retention rate.
 
 📝 Author
 
 👩‍💻 Developed by Deepthi R
 
-Skills Used: SQL | Python | MySQL Workbench | Scikit-learn | Power BI
+* Skills Used: SQL | Python | MySQL Workbench | Scikit-learn | Power BI
 
-Domain: SaaS Analytics, Customer Retention, Predictive Modeling
+* Domain: SaaS Analytics, Customer Retention, Predictive Modeling
